@@ -14,10 +14,4 @@ Main script to run is Run_ModelLetterNo, e.g. Run_ModelA.
 
 Results for synthetic data are for 1 vessel (MPA), 3 vessels and 21 vessels. Their main script also starts with Run_*.
 
-Before running the main script, the following must be typed in the Matlab command:
-
-!make clean
-
-!make
-
 This makes the PDE codes.
